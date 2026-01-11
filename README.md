@@ -1,6 +1,6 @@
 # Walk vs. Run Classification: Activity Recognition
 
-**Duration:** [27th Nov 2025 – 5th Dec 2025]
+**Duration:** [28th Nov 2025 – 5th Dec 2025]
 
 **Project Type:** IoT Data Analysis & Deep Learning
 
